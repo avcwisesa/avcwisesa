@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @avcwisesa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi! 
+
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)⚙️ and how to contribute in OSS
+
+
 
 <!---
 avcwisesa/avcwisesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
